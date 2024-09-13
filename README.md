@@ -22,7 +22,8 @@ This setup will:
 2. Sync these artifacts with **client buckets** based on specified prefixes.
 3. Automatically trigger a Lambda function whenever new objects are added to the client buckets.
 4. The Lambda function will invoke **CodePipeline** and **CloudFormation** for further automation.
-![image](https://github.com/user-attachments/assets/401752a6-c562-4ead-b5d5-0ddda8766d26)
+![image](https://github.com/user-attachments/assets/a09ff685-aef5-4642-a39d-440fff6860c7)
+
 
 ---
 
