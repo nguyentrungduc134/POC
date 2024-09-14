@@ -7,6 +7,7 @@ This document outlines the process to set up a CI/CD pipeline using **AWS CodePi
 3. Triggering a Lambda function from two client buckets.
 4. Using the Lambda function to call **CodeDeploy** for application deployment.
 5. Using the Lambda function to call **CodeDeploy** for infrastructure deployment.
+![image](https://github.com/user-attachments/assets/6eb55658-2689-4272-b6d5-7694ba9b0285)
 
 ## Prerequisites
 - **AWS CLI** installed and configured with proper permissions.
