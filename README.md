@@ -5,7 +5,7 @@ This document outlines the process of automating deployments using AWS CodePipel
 ## Overview
 
 1. **Output CodePipeline and CloudFormation artifacts to separate S3 buckets.**
-2. **Copy source artifacts to client buckets using a prefix via Lambda.** (Estimated Time: 5 hours)
+2. **Copy source artifacts to client buckets using a prefix and date suffix via Lambda.** (Estimated Time: 5 hours)
 3. **Set up DNS, parameters, CodePipeline, and approval from the client site.** (Estimated Time: 5 hours)
    - Set up the source as an S3 ZIP file.
    - Set up approval steps and SNS notifications.
