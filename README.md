@@ -9,7 +9,8 @@ This document outlines the steps required to set up an automated deployment proc
 3. Set up DNS, parameters, CodePipeline, and approval processes (Estimated Time: 5 hours).
     - Use an S3 ZIP file as the source for the pipeline.
     - Set up an approval stage and SNS notifications for the pipeline.
-![image](https://github.com/user-attachments/assets/7a6c523b-aa1e-4f41-bead-173429698103)
+![image](https://github.com/user-attachments/assets/eaab466c-b344-4faf-a882-7b5933cdb004)
+
 
 ## Step-by-Step Instructions
 
