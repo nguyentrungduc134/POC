@@ -1,0 +1,17 @@
+{
+  "packages": {
+    ".": {
+    "release-type": "terraform-module",
+    "extra-files": [
+    {
+      "type": "generic",
+      "path": "README.md"
+    },
+    {
+      "type": "generic",
+      "path": "example/main.tf"
+    }      
+  ]     
+  }
+  }
+}
