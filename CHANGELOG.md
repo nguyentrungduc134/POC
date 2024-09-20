@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/nguyentrungduc134/POC/compare/v0.1.0...v0.1.1) (2024-09-20)
+
+
+### Bug Fixes
+
+* test ([ae3459e](https://github.com/nguyentrungduc134/POC/commit/ae3459e95e6f98ee802d3a6612441516f7f8e372))
+
 ## 0.1.0 (2024-09-20)
 
 
