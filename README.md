@@ -1,7 +1,7 @@
 # README: Setting Up CodePipeline and CloudFormation Artifacts Management  
 <!-- x-release-please-start-version -->
   ```
-    Version : '0.0.0'
+    Version : '0.1.1'
   ```
 <!-- x-release-please-end -->
 This document outlines the process of automating deployments using AWS CodePipeline, Lambda, and S3. It covers artifact management, synchronizing client buckets, DNS configuration, and Lambda-triggered CodePipeline deployments.
