@@ -1,4 +1,4 @@
-# README: Setting Up CodePipeline and CloudFormation Artifacts Management
+# README: Setting Up CodePipeline and CloudFormation Artifacts Management 
 <!-- x-release-please-start-version -->
   ```
     Version : 'x.x.x'
